@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jschlosser11
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jake Schlosser.
+- 👀 I’m interested in remote junior front end jobs. 
 - 🌱 I’m currently learning Svelte.
 - 💞️ I’m looking to collaborate on any startup Svelte projects.
 - 📫 How to reach me: jakeschlosser309@gmail.com
